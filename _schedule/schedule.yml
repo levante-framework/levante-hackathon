@@ -1,0 +1,73 @@
+weeks:
+  - title: "Week 1"
+    subtitle: "July 6-10, 2026"
+    days:
+      monday: 
+        - time: "8:00am-9:00am"
+          title: "Welcome & Introduction"
+          speakers:
+            - name: "Mike Frank"
+          slides: ""
+        - time: "9:15am-10:15am"
+          title: "Accessing and using LEVANTE data (Tutorial)"
+          speakers:
+            - name: "Mika Braginsky"
+            - name: "Theresa Cheng"
+          slides: ""
+      tuesday:
+        - time: "8:00am-9:00am"
+          title: "LEVANTE Psychometrics"
+          speakers:
+            - name: "George Kachergis"
+          slides: ""
+        - time: "9:15am-10:15am"
+          title: "Option 1:"
+          speakers:
+            - name: "Placeholder"
+        - time: "9:15am-10:15am"
+          title: "Option 2: "
+          speakers:
+            - name: "Placeholder"
+      wednesday:
+      - time: "8:00am-9:00am"
+          title: "LEVANTE Psychometrics"
+          speakers:
+            - name: "George Kachergis"
+          slides: ""
+        - time: "9:15am-10:15am"
+          title: "Option 1:"
+          speakers:
+            - name: "Placeholder"
+        - time: "9:15am-10:15am"
+          title: "Option 2: "
+          speakers:
+            - name: "Placeholder"
+      thursday:
+        - time: "8:00am-9:00am"
+          title: "LEVANTE Psychometrics"
+          speakers:
+            - name: "George Kachergis"
+          slides: ""
+        - time: "9:15am-10:15am"
+          title: "Placeholder"
+          speakers:
+            - name: "Placeholder"
+      friday:
+        - time: "8:00am-9:00am"
+          title: "LEVANTE Psychometrics"
+          speakers:
+            - name: "George Kachergis"
+
+  - title: "Week 2"
+    subtitle: "July 13–17, 2026"
+    days:
+      monday:
+        - time: "8:00am-10:00am"
+          title: "Hackathon Project Pitches"
+          speakers:
+      tuesday:[]
+      wednesday:[]
+      thursday:[]
+      friday:
+        - time: "8:00am-10:30am"
+          title: "Hackathon Project Presentations"
