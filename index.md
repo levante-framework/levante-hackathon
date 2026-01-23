@@ -33,4 +33,4 @@ Local, in-person hubs will be hosted at:
 - Save the date on your calendar
 - Apply for the hackathon week! Applications open in February 2026
 - Bookmark this page for updates, including when applications open
-- Reach out to levantehackathon@gmail.com with questions, or if you’d like to host a local hub
+- Reach out to <levantehackathon@gmail.com> with questions, or if you’d like to host a local hub
