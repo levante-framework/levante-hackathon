@@ -11,10 +11,8 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
 
 |            | July 6  <br>Monday | Tuesday | Wednesday | Thursday | Friday |
 |------------|--------|---------|-----------|----------|--------|
-| **8:00am** |  Welcome & LEVANTE 101 | LEVANTE Psychometrics  | Guest Talk | Guest Talk | Panel: LEVANTE Partners and Sites |
-| **Speakers** | Mike Frank | George Kachergis | TBD | TBD | TBD |
-| **9:15am** | Accessing and using LEVANTE data |  |  |  |  |
-| **Speakers** | Mika Braginsky & Theresa Cheng  |  |  |  |  |
+| **8:00am** |  Welcome & LEVANTE 101 <br> *Mike Frank*| LEVANTE Psychometrics <br>*George Kachergis* | Guest Talk <br>*TBA* | Guest Talk <br>*TBA*| Panel: LEVANTE Partners and Sites <br>*TBA*|
+| **9:15am** | Accessing and using LEVANTE data <br>*Mika Braginsky & Theresa Cheng*|  |  |  |  |
 
 ##### Week 2: July 13-17, 2026
 Closed sessions for accepted hackathon participants only.
