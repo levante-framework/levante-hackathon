@@ -10,8 +10,8 @@ All times are in Pacific Standard Time.
 
 |            | Monday | Tuesday | Wednesday | Thursday | Friday |
 |------------|--------|---------|-----------|----------|--------|
-| **8:00–9:00am** |  Welcome & LEVANTE 101 |  |  |  |  |
-|  | Mike Frank |  |  |  |  |
+| **8:00–9:00am** |  Welcome & LEVANTE 101 | LEVANTE Psychometrics  | Guest Talk | Guest Talk | Panel: LEVANTE Partners and Sites |
+|  | Mike Frank | George Kachergis | TBD | TBD | TBD |
 | **9:15–10:15am** | Accessing and using LEVANTE data |  |  |  |  |
 | | Mika Braginsky & Theresa Cheng  |  |  |  |  |
 
