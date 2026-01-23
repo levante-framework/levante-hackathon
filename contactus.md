@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Here's how you can contact us ...
+Please reach out to levantehackathon@gmail.com with any questions.
