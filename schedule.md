@@ -80,11 +80,11 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
         <div class="session-speaker"><i>Lijin Zhang</i></div>
       </td>
       <td>
-        <div class="session-title">Social and environmental influences</div>
-        <div class="session-speaker"><i>Roundtable discussion</i></div>
+        <div class="session-title">Social and environmental influences* (Discussion)</div>
+        <div class="session-speaker"><i>Multiple facilitators</i></div>
       </td>
       <td>
-        <div class="session-title">Wrap up and intro to hackathon</div>
+        <div class="session-title">Wrap up and intro to hackathon* (Talk)</div>
         <div class="session-speaker"><i>LEVANTE Team</i></div>
       </td>
     </tr>
@@ -114,6 +114,8 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
 
   </tbody>
 </table>
+
+Talks marked with an asterisk (*) are not public sessions; they are open to hackathon participants only.
 
 ##### Week 2: July 13-17, 2026
 Closed sessions for accepted hackathon participants only.
