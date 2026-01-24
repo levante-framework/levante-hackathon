@@ -10,7 +10,7 @@ permalink: /speakers/
   {% for s in site.speakers %}
     <article class="speaker-card">
       <a href="{{ s.url }}">
-        <img src="{{ s.photo | default: '/assets/images/speakers/default.jpg' }}" alt="Photo of {{ s.name }}" class="speaker-photo" />
+        <img src="{{ s.photo }}" alt="Photo of {{ s.name }}" class="speaker-photo" />
       </a>
       <h2 class="speaker-name"><a href="{{ s.url }}">{{ s.name }}</a></h2>
       <p class="speaker-title">{{ s.title }}</p>
