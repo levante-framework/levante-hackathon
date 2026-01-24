@@ -9,10 +9,24 @@ permalink: /speakers/
 <div class="speakers-grid">
   {% for s in site.speakers %}
     <article class="speaker-card">
-      <a href="{{ s.url }}">
-        <img src="{{ s.photo }}" alt="Photo of {{ s.name }}" class="speaker-photo" />
-      </a>
-      <h2 class="speaker-name"><a href="{{ s.url }}">{{ s.name }}</a></h2>
+      <!-- Image (optional: linking the image to website too) -->
+      {% if s.website %}
+        <a href="{{ s.website }}" target="_blank" rel="noopener noreferrer">
+          <img src="{{ s.photo | relative_url }}" alt="Photo of {{ s.name }}" class="speaker-photo" />
+        </a>
+      {% else %}
+        <img src="{{ s.photo | relative_url }}" alt="Photo of {{ s.name }}" class="speaker-photo" />
+      {% endif %}
+
+      <!-- Name linking to external site (opens in new tab) -->
+      <h2 class="speaker-name">
+        {% if s.website %}
+          <a href="{{ s.website }}" target="_blank" rel="noopener noreferrer">{{ s.name }}</a>
+        {% else %}
+          {{ s.name }}
+        {% endif %}
+      </h2>
+
       <p class="speaker-title">{{ s.title }}</p>
       <p class="speaker-institution">{{ s.institution }}</p>
     </article>
