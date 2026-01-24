@@ -4,7 +4,8 @@ title: Speakers
 permalink: /speakers/
 ---
 
-<h1>Speakers</h1>
+### Speakers
+Listed alphabetically by first name. Most speakers are LEVANTE team members at Stanford or affiliates partner sites. 
 
 <div class="speakers-grid">
   {% for s in site.speakers %}
